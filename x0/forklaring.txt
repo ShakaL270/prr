@@ -1,0 +1,1 @@
+Spill kryss og null, der en spiller konkurrerer mot en bot.
