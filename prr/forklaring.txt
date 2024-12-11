@@ -1,0 +1,6 @@
+Det er et spill "Gjett flagget" med fire spillmodi:
+
+Modus med flagg fra moderne verdens land.
+Modus med historiske flagg fra land som ikke finnes lenger.
+Modus med flagg fra tidligere imperier.
+Modus med alle de ovennevnte flaggene, og du har kun 15 sekunder til å gi så mange riktige svar som mulig.
